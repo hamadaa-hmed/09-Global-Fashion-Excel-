@@ -1,0 +1,193 @@
+# 🌍 Global Fashion Retail Analysis | Excel & Power Pivot
+
+An interactive **Global Fashion Retail Analysis** project built with **Microsoft Excel and Power Pivot** to transform retail data into meaningful business insights across customers, products, categories, brands, cities, countries, departments, sales, and profit.
+
+## 🎬 Project GIFs
+
+### Dashboard Overview
+
+![Global Fashion Retail Analysis Overview](images/Global_Fashion_Retail_Analysis_Overview.gif)
+
+### Dashboard Analysis
+
+![Global Fashion Retail Analysis Dashboard](images/Global_Fashion_Retail_Analysis_Dashboard.gif)
+
+## 📊 Project Overview
+
+The project analyzes global fashion retail performance across multiple dimensions and presents the results through interactive Excel dashboards.
+
+The analysis focuses on:
+
+- Customer and user behavior
+- Product and category performance
+- Brand performance
+- Sales and profit trends
+- City and country performance
+- Gender analysis
+- Department performance
+- Year-over-year and month-over-month comparisons
+
+## 🛠️ Tools & Skills
+
+- **Microsoft Excel**
+- **Power Pivot**
+- **Data Modeling**
+- **PivotTables & PivotCharts**
+- **DAX Measures**
+- **Interactive Slicers**
+- **Time Intelligence**
+- **Data Analysis & Visualization**
+- **Business Insights**
+
+## 📑 Dashboard Pages
+
+### 1. Overview Fashion
+Provides a high-level view of the overall fashion retail business, including:
+
+- Top users by total sales
+- Top users by profit
+- Gender contribution to profit
+- Top cities by total profit
+- Country profit margin
+- Total users by year
+
+### 2. Users Analysis
+Focuses on customer/user performance and behavior through:
+
+- Top 10 users by total sales
+- Top 10 users by profit
+- Gender by total profit YoY
+- Top 10 cities by total profit
+- Country profit margin
+- Total users by year
+
+### 3. Product Analysis
+Analyzes product and category performance using:
+
+- Top 10 products by total sales
+- Top categories by profit
+- Department profit LY
+- Top brands by total sales MoM
+- Total profit by year
+- Top 5 categories by total sales
+
+### 4. Work Product
+Detailed product-focused analysis supporting deeper comparison of products, categories, and performance.
+
+### 5. Work Users
+Detailed user-focused analysis for exploring customer-level performance.
+
+## 🔍 Key Insights
+
+### 👥 Customer & User Insights
+
+- The number of users increased strongly from **2,379 in 2019** to a peak of **44,523 in 2023**.
+- User count then decreased to **7,293 in 2024**, indicating a significant change in the latest year's recorded user activity.
+- The highest-value users are concentrated among a relatively small group, with the top user reaching approximately **6,646 in total sales** in the displayed analysis.
+
+### 🌎 Geographic Insights
+
+- **Shanghai** recorded the highest total profit among the displayed cities, at approximately **141,759**.
+- **Beijing** followed with approximately **127,312**.
+- Seoul, Shenzhen, New York, Dongguan, Chengdu, Tokyo, Wuhan, and other cities also contributed to overall profit.
+
+### 💰 Profit Trend
+
+- Total profit increased substantially from **59,434 in 2019** to **204,392 in 2020**.
+- Profit continued to grow through 2021 and 2022.
+- Profit reached its highest displayed level in **2023 at approximately 1,396,015**.
+- The displayed 2024 value dropped to approximately **230,511**, showing a substantial decline compared with 2023.
+
+### 🧥 Category Insights
+
+The highest-profit categories shown in the dashboard include:
+
+- **Outerwear & Coats:** ~459,966
+- **Suits & Sport Coats:** ~399,930
+- **Jeans:** ~372,169
+- **Pants:** ~236,165
+- **Sweaters:** ~265,224
+
+The top five categories also represent a large share of total category sales, with **Jeans** and **Outerwear & Coats** each accounting for about **25%** in the displayed analysis.
+
+### 🏷️ Brand Insights
+
+Among the brands shown in the Top 10 Brand by Total Sales MoM analysis:
+
+- **Diesel** reached approximately **17,492**
+- **Carhartt** reached approximately **14,385**
+- **Calvin Klein** reached approximately **11,293**
+- **Tommy Hilfiger** reached approximately **8,405**
+
+These results highlight noticeable differences in sales contribution across brands.
+
+### 👔 Gender & Department Insights
+
+- The displayed gender analysis shows a relatively balanced contribution to profit, with the selected view showing approximately **53% vs. 47%**.
+- Department analysis can be filtered between **Men** and **Women** to compare performance interactively.
+
+## 📈 Business Questions Answered
+
+This project was designed to answer questions such as:
+
+- Which users generate the highest sales and profit?
+- Which cities contribute the most profit?
+- How has user activity changed over time?
+- Which categories generate the highest profit?
+- Which products and brands have the highest sales?
+- How does profit change from year to year?
+- How is performance distributed across genders and departments?
+- Which categories dominate total sales?
+
+## 🎯 Project Objective
+
+The main objective is to turn raw fashion retail data into an interactive analytical solution that makes it easier to identify:
+
+**Customer behavior → Product performance → Geographic performance → Sales trends → Profitability**
+
+The dashboards allow users to interact with the data through filters and slicers and explore the results from different business perspectives.
+
+## 💡 Key Takeaways
+
+- Customer activity experienced strong growth through 2023.
+- Shanghai was the leading city by total profit in the displayed analysis.
+- 2023 represented the peak year for total profit in the dashboard.
+- Outerwear & Coats, Suits & Sport Coats, and Jeans were among the strongest categories by profit.
+- Brand performance varied considerably, with Diesel and Carhartt among the strongest displayed brands.
+- Interactive filtering makes it possible to investigate performance by year, gender, department, country, and other dimensions.
+
+## 📷 Dashboard Preview
+
+Add your project screenshots here:
+
+```text
+/images/overview-fashion.png
+/images/users-analysis.png
+/images/product-analysis.png
+```
+
+## 📁 Project Structure
+
+```text
+Global-Fashion-Retail-Analysis/
+│
+├── README.md
+├── Global Fashion Retail Analysis.xlsx
+│
+└── images/
+    ├── overview-fashion.png
+    ├── users-analysis.png
+    ├── product-analysis.png
+    ├── Global_Fashion_Retail_Analysis_Overview.gif
+    └── Global_Fashion_Retail_Analysis_Dashboard.gif
+```
+
+## 🚀 Skills Demonstrated
+
+**Excel | Power Pivot | DAX | Data Modeling | PivotTables | PivotCharts | Slicers | Time Intelligence | Data Visualization | Business Analysis**
+
+---
+
+### 📌 Note
+
+The insights above are based on the values and dashboard states visible in the project video. Some dashboard views change according to filters/slicers, so displayed values can vary depending on the selected period, gender, or department.
