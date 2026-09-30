@@ -1,47 +1,53 @@
-# 🌍 Global Fashion Retail Analysis | Excel & Power Pivot
+<div align="center">
 
-An interactive **Global Fashion Retail Analysis** project built with **Microsoft Excel and Power Pivot** to transform retail data into meaningful business insights across customers, products, categories, brands, cities, countries, departments, sales, and profit.
+# 🌍 Global Fashion Retail Analysis
+## Excel & Power Pivot
 
-## 🎬 Project GIFs
+**Interactive Global Fashion Retail Analysis Dashboard**
 
-### Dashboard Overview
+Built with **Microsoft Excel** and **Power Pivot** to transform retail data into meaningful business insights across customers, products, categories, brands, cities, countries, departments, sales, and profit.
 
-![Global Fashion Retail Analysis Overview](images/Global_Fashion_Retail_Analysis_Overview.gif)
+</div>
 
-### Dashboard Analysis
-
-![Global Fashion Retail Analysis Dashboard](images/Global_Fashion_Retail_Analysis_Dashboard.gif)
+---
 
 ## 📊 Project Overview
 
-The project analyzes global fashion retail performance across multiple dimensions and presents the results through interactive Excel dashboards.
+This project analyzes global fashion retail performance across multiple dimensions and presents the results through interactive Excel dashboards.
 
-The analysis focuses on:
+### The analysis focuses on:
 
-- Customer and user behavior
-- Product and category performance
-- Brand performance
-- Sales and profit trends
-- City and country performance
-- Gender analysis
-- Department performance
-- Year-over-year and month-over-month comparisons
+- 👥 Customer and user behavior
+- 🧥 Product and category performance
+- 🏷️ Brand performance
+- 💰 Sales and profit trends
+- 🌎 City and country performance
+- 👔 Gender analysis
+- 🏢 Department performance
+- 📈 Year-over-Year and Month-over-Month comparisons
+
+---
 
 ## 🛠️ Tools & Skills
 
-- **Microsoft Excel**
-- **Power Pivot**
-- **Data Modeling**
-- **PivotTables & PivotCharts**
-- **DAX Measures**
-- **Interactive Slicers**
-- **Time Intelligence**
-- **Data Analysis & Visualization**
-- **Business Insights**
+| Tool / Skill | Application |
+|---|---|
+| **Microsoft Excel** | Data analysis and dashboard creation |
+| **Power Pivot** | Data modeling and analysis |
+| **DAX** | Measures and calculations |
+| **PivotTables** | Data summarization |
+| **PivotCharts** | Data visualization |
+| **Slicers** | Interactive filtering |
+| **Time Intelligence** | YoY and MoM analysis |
+| **Data Modeling** | Connecting and analyzing multiple tables |
+| **Business Analysis** | Extracting actionable insights |
+
+---
 
 ## 📑 Dashboard Pages
 
 ### 1. Overview Fashion
+
 Provides a high-level view of the overall fashion retail business, including:
 
 - Top users by total sales
@@ -52,6 +58,7 @@ Provides a high-level view of the overall fashion retail business, including:
 - Total users by year
 
 ### 2. Users Analysis
+
 Focuses on customer/user performance and behavior through:
 
 - Top 10 users by total sales
@@ -62,6 +69,7 @@ Focuses on customer/user performance and behavior through:
 - Total users by year
 
 ### 3. Product Analysis
+
 Analyzes product and category performance using:
 
 - Top 10 products by total sales
@@ -72,10 +80,14 @@ Analyzes product and category performance using:
 - Top 5 categories by total sales
 
 ### 4. Work Product
+
 Detailed product-focused analysis supporting deeper comparison of products, categories, and performance.
 
 ### 5. Work Users
+
 Detailed user-focused analysis for exploring customer-level performance.
+
+---
 
 ## 🔍 Key Insights
 
@@ -114,10 +126,10 @@ The top five categories also represent a large share of total category sales, wi
 
 Among the brands shown in the Top 10 Brand by Total Sales MoM analysis:
 
-- **Diesel** reached approximately **17,492**
-- **Carhartt** reached approximately **14,385**
-- **Calvin Klein** reached approximately **11,293**
-- **Tommy Hilfiger** reached approximately **8,405**
+- **Diesel:** ~17,492
+- **Carhartt:** ~14,385
+- **Calvin Klein:** ~11,293
+- **Tommy Hilfiger:** ~8,405
 
 These results highlight noticeable differences in sales contribution across brands.
 
@@ -125,6 +137,8 @@ These results highlight noticeable differences in sales contribution across bran
 
 - The displayed gender analysis shows a relatively balanced contribution to profit, with the selected view showing approximately **53% vs. 47%**.
 - Department analysis can be filtered between **Men** and **Women** to compare performance interactively.
+
+---
 
 ## 📈 Business Questions Answered
 
@@ -139,13 +153,17 @@ This project was designed to answer questions such as:
 - How is performance distributed across genders and departments?
 - Which categories dominate total sales?
 
+---
+
 ## 🎯 Project Objective
 
 The main objective is to turn raw fashion retail data into an interactive analytical solution that makes it easier to identify:
 
-**Customer behavior → Product performance → Geographic performance → Sales trends → Profitability**
+**Customer Behavior → Product Performance → Geographic Performance → Sales Trends → Profitability**
 
 The dashboards allow users to interact with the data through filters and slicers and explore the results from different business perspectives.
+
+---
 
 ## 💡 Key Takeaways
 
@@ -156,38 +174,37 @@ The dashboards allow users to interact with the data through filters and slicers
 - Brand performance varied considerably, with Diesel and Carhartt among the strongest displayed brands.
 - Interactive filtering makes it possible to investigate performance by year, gender, department, country, and other dimensions.
 
-## 📷 Dashboard Preview
-
-Add your project screenshots here:
-
-```text
-/images/overview-fashion.png
-/images/users-analysis.png
-/images/product-analysis.png
-```
+---
 
 ## 📁 Project Structure
 
 ```text
-Global-Fashion-Retail-Analysis/
+09-Global-Fashion-Excel/
 │
 ├── README.md
-├── Global Fashion Retail Analysis.xlsx
-│
+├── Project Global Fashion.xlsx
+├── distribution_centers.csv
+├── inventory_items.csv
+├── order_items.csv
+├── orders.csv
+├── products.csv
+├── users.csv
 └── images/
     ├── overview-fashion.png
     ├── users-analysis.png
-    ├── product-analysis.png
-    ├── Global_Fashion_Retail_Analysis_Overview.gif
-    └── Global_Fashion_Retail_Analysis_Dashboard.gif
+    └── product-analysis.png
 ```
-
-## 🚀 Skills Demonstrated
-
-**Excel | Power Pivot | DAX | Data Modeling | PivotTables | PivotCharts | Slicers | Time Intelligence | Data Visualization | Business Analysis**
 
 ---
 
-### 📌 Note
+## 🚀 Skills Demonstrated
 
-The insights above are based on the values and dashboard states visible in the project video. Some dashboard views change according to filters/slicers, so displayed values can vary depending on the selected period, gender, or department.
+<div align="center">
+
+**Excel** • **Power Pivot** • **DAX** • **Data Modeling** • **PivotTables** • **PivotCharts** • **Slicers** • **Time Intelligence** • **Data Visualization** • **Business Analysis**
+
+</div>
+
+---
+
+> **📌 Note:** The insights above are based on the values and dashboard states visible in the project video. Some dashboard views change according to filters and slicers, so displayed values can vary depending on the selected period, gender, or department.
